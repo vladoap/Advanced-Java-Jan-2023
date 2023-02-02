@@ -1,4 +1,4 @@
-package generics.genericArrayCreator;
+package generics.lab.genericArrayCreator;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

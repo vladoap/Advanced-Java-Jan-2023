@@ -1,7 +1,4 @@
-package generics.genericScale;
-
-import java.util.Collections;
-import java.util.Comparator;
+package generics.lab.genericScale;
 
 public class Scale<T extends Comparable<T>> {
 

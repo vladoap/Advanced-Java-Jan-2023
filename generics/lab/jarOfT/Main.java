@@ -1,4 +1,4 @@
-package generics.jarOfT;
+package generics.lab.jarOfT;
 
 
 

@@ -1,4 +1,4 @@
-package generics.listUtilities;
+package generics.lab.listUtilities;
 
 import java.util.List;
 
